@@ -1,4 +1,4 @@
 .PHONY: All Clean
 
 run:
-	g++ rolldice.cpp main.cpp -o rolldie
+	g++ rolldice.cpp main.cpp -o rolldice
