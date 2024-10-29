@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Leo/Desktop/CS221 - Projects/homePractice/matrixPractice",
-      "program": "c:/Users/Leo/Desktop/CS221 - Projects/homePractice/matrixPractice/build/Debug/outDebug",
+      "cwd": "c:/Users/Leo/Desktop/CS221 - Projects/Structures",
+      "program": "c:/Users/Leo/Desktop/CS221 - Projects/Structures/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
